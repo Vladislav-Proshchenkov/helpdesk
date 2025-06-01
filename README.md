@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5pgf7g5m5i0bob27?svg=true)](https://ci.appveyor.com/project/Vladislav-Proshchenkov/helpdesk)
